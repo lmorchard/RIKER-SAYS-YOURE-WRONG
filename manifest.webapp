@@ -1,0 +1,14 @@
+{
+  "name": "RIKER SAYS YOU'RE WRONG",
+  "description": "A single-button soundboard of Jonathan Frakes saying you're wrong",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Les Orchard",
+    "url": "http://lmorchard.com"
+  },
+  "default_locale": "en",
+  "icons": {
+    "128": "/img/stop-it-128.png",
+    "256": "/img/stop-it.png"
+  }
+}
