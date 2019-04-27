@@ -15,7 +15,7 @@ clips.forEach(function (name) {
   var audioEl = document.createElement('audio');
   audioEl.setAttribute('id', 'clip-' + name);
   audioEl.setAttribute('preload', 'auto');
-  audioEl.src = '/clips/' + name + '.mp3';
+  audioEl.src = './clips/' + name + '.mp3';
   audioEl.mozAudioChannelType = 'content';
 
   clipsEl.appendChild(audioEl);
